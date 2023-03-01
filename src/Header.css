@@ -1,0 +1,81 @@
+.App{
+   /* display:flex;
+    flex-direction: column;
+    margin:20px;
+    justify-content: center;
+    /*align-items: center;*/
+    /*text-align: center;
+    
+    /*this is minmax 150px row but if needs it will take more space*/
+  
+
+     
+}
+
+/*#header{
+    align-items: center;
+    text-align: center;
+   
+   
+    
+}*/
+
+#image{
+    padding:15px;
+    align-self: center;
+    border-radius: 200px;
+    width: 200px;
+    height: auto;
+}
+
+#skills{
+    align-items: left;
+
+}
+
+.details{
+    text-decoration: underline;
+}
+
+.svg{
+     margin-right: 5px;
+    padding-right: 3px;
+    
+    
+}
+
+.styleHeader{
+    padding:5px;
+    margin:5px;
+}
+
+
+
+.underLine{
+    border-bottom:5px solid black;
+    color:blue;
+    padding:5px;
+
+}
+
+.inline{
+    display: inline-block;
+    margin-right: 200px;
+   /* margin-left: 10px;*/
+    padding: 5px;
+    margin-top:20px;
+}
+
+.underLine-skills{
+    border-bottom:5px solid black;
+    padding:5px;
+
+}
+
+#lineEdu{
+    border-bottom:5px solid black;
+}
+
+#list{
+    text-align: left;
+}
